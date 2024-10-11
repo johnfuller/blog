@@ -1,6 +1,6 @@
 ---
 title: "Going Nuclear"
-date: 2024-09-10
+date: 2024-10-10
 thumbnail: "img/nuclear.jpeg"
 lead: The big tech companies are betting on nuclear.
 categories:

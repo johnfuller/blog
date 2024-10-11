@@ -1,12 +1,12 @@
 ---
-title: "I'm Building in Public"
-date: 2024-10-12
+title: "Building in Public"
+date: 2024-10-11
 thumbnail: "img/cm0bf7lsl008a14fqmtg9osll_original.jpeg"
-lead: I'm building in public, and other updates... in public.
+lead: "Building in public, and other updates... in public."
 categories:
-  - "BUILD IN PUBLIC"
+  - "BUILD"
 tags:
-  - "updates"
+  - "UPDATES"
 ---
 
 This is a post for anyone interested in following along with what I have been

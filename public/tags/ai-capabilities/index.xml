@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AI on Posts @ ThatIs.BS</title>
-    <link>/categories/ai/</link>
-    <description>Recent content in AI on Posts @ ThatIs.BS</description>
+    <title>AI CAPABILITIES on Posts @ ThatIs.BS</title>
+    <link>/tags/ai-capabilities/</link>
+    <description>Recent content in AI CAPABILITIES on Posts @ ThatIs.BS</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 11 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/categories/ai/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/ai-capabilities/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Take AI Capabilities with a Grain of Salt</title>
       <link>/post/ai-capabilities/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
       <guid>/post/ai-capabilities/</guid>
       <description>&lt;p&gt;You&amp;rsquo;ll see people claiming these models can reason all over social media. Watch out for motives. The companies who create these things are tryinging to sell you their service. It&amp;rsquo;s the same for those who are attracting eyeballs or selling themselves as experts. It&amp;rsquo;s important to know the capabilities of these models if you&amp;rsquo;re going to put them to serious use.&lt;/p&gt;&#xA;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;13/ Overall, we found no evidence of formal reasoning in language models including open-source models like &lt;a href=&#34;https://twitter.com/hashtag/Llama?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Llama&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/hashtag/Phi?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Phi&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/hashtag/Gemma?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Gemma&lt;/a&gt;, and &lt;a href=&#34;https://twitter.com/hashtag/Mistral?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Mistral&lt;/a&gt; and leading closed models, including the recent &lt;a href=&#34;https://twitter.com/hashtag/OpenAI?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#OpenAI&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/GPT?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#GPT&lt;/a&gt;-4o and &lt;a href=&#34;https://twitter.com/hashtag/o1?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#o1&lt;/a&gt;-series. Their behavior is better explained by sophisticated…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Going Nuclear</title>
-      <link>/post/going-nuclear/</link>
-      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>/post/going-nuclear/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.zerohedge.com/energy/google-turns-nuclear-power-power-its-data-centers&#34;&gt;From Zerohedge&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;The big tech companies are betting on nuclear. This will be an interesting development to check into. It has always been difficult to cut through the noise of nuclear vs renewable. Renewable energy people high high conviction and they make a lot of noise. Nuclear has no such champions, until now. Money talks, and it&amp;rsquo;s talking to nuclear.&lt;/p&gt;&#xA;&lt;p&gt;The greatest argument I see against nuclear is that it&amp;rsquo;s too expensive to compete with solar. However, cost of power isn&amp;rsquo;t as much of a concern when it&amp;rsquo;s standing between you and billions of dollars in investments into AI. I&amp;rsquo;m guessing this is a diversity play. The big tech players will take power wherever they can get it. And apparently they are finding some potentially easy pickings for nuclear.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

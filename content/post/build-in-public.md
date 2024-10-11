@@ -4,9 +4,10 @@ date: 2024-10-11
 thumbnail: "img/cm0bf7lsl008a14fqmtg9osll_original.jpeg"
 lead: "Building in public, and other updates... in public."
 categories:
-  - "BUILD"
-tags:
-  - "UPDATES"
+  - "BUILD IN PUBLIC"
+  - "PERSONAL UPDATES"
+weight: 1
+menu: "side"
 ---
 
 This is a post for anyone interested in following along with what I have been

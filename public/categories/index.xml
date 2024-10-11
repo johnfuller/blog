@@ -9,17 +9,24 @@
     <lastBuildDate>Fri, 11 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>BUILD</title>
-      <link>/categories/build/</link>
+      <title>AI</title>
+      <link>/categories/ai/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>/categories/build/</guid>
+      <guid>/categories/ai/</guid>
       <description></description>
     </item>
     <item>
-      <title>AI</title>
-      <link>/categories/ai/</link>
-      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>/categories/ai/</guid>
+      <title>BUILD in PUBLIC</title>
+      <link>/categories/build-in-public/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/categories/build-in-public/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PERSONAL UPDATES</title>
+      <link>/categories/personal-updates/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/categories/personal-updates/</guid>
       <description></description>
     </item>
   </channel>

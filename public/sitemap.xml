@@ -2,13 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/build/</loc>
-    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/post/build-in-public/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/categories/ai/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/ai-capabilities/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/build-in-public/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/categories/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/personal-updates/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/</loc>
@@ -20,14 +29,8 @@
     <loc>/tags/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/updates/</loc>
+    <loc>/post/ai-capabilities/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/ai/</loc>
-    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/ai/</loc>
-    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/energy/</loc>
     <lastmod>2024-10-10T00:00:00+00:00</lastmod>
@@ -40,7 +43,5 @@
   </url><url>
     <loc>/about/</loc>
     <lastmod>2024-10-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/docs/</loc>
   </url>
 </urlset>

@@ -8,18 +8,18 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author]
   name = "John Fuller"
-  bio = "Contact me on Twitter if you need to."
+  bio = "AI, Web Development, Marketing. Check my social media in the sidebar if you need to contact me."
   avatar = "img/avatar.jpg"
 
 [Params]
-  description = "John Doe's Personal blog about everything" # Description of your site
+  description = "Things I find interesting to share by John Fuller" # Description of your site
   opengraph = true
   twitter_cards = true
   readmore = false # Show "Read more" button in list if true
   authorbox = true
   pager = true
   post_meta = ["date", "categories"] # Order of post meta information
-  mainSections = ["post", "docs"]
+  mainSections = ["post"]
 
 [Params.logo]
   subtitle = "Shit Posting" # Logo subtitle
@@ -29,8 +29,21 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   list = "right"   # Configure layout for list pages
   single = "right" # Configure layout for single pages
   # Enable widgets in given order
-  widgets = ["search", "recent", "categories", "taglist"]
+  widgets = ["search", "recent", "categories", "taglist", "social"]
 
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
   tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+  
+[Params.widgets.social]
+ twitter = "__johnfuller"
+ 
+ [Params.widgets.search]
+  cached = false # activate cache if true
+  url = "https://google.com/search"
+  [Params.widgets.search.input]
+    name = "sitesearch"
+    pre = "posts.thati.sbs"
+  
+[markup.goldmark.renderer]
+unsafe= true

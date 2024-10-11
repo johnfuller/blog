@@ -7,7 +7,6 @@ categories:
   - "AI"
 tags:
   - "ENERGY"
-  - "AI"
   - "TRENDS"
 ---
 

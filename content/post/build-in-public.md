@@ -6,8 +6,7 @@ lead: "Building in public, and other updates... in public."
 categories:
   - "BUILD IN PUBLIC"
   - "PERSONAL UPDATES"
-weight: 1
-menu: "side"
+menu: side
 ---
 
 This is a post for anyone interested in following along with what I have been

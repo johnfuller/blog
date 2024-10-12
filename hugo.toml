@@ -4,7 +4,7 @@ languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
-googleAnalytics = "G-BZZ7Z078QK" # Enable Google Analytics by entering your tracking id
+googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author]
   name = "John Fuller"
@@ -36,9 +36,9 @@ googleAnalytics = "G-BZZ7Z078QK" # Enable Google Analytics by entering your trac
   tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
   
 [Params.widgets.social]
- twitter = "__johnfuller"
- facebook = "man.0f.5T33L"
- email = "john.fuller@gmail.com"
+  twitter = "__johnfuller"
+  facebook = "man.0f.5T33L"
+  email = "john.fuller@gmail.com"
  
  [Params.widgets.search]
   cached = false # activate cache if true

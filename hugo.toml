@@ -37,6 +37,8 @@ googleAnalytics = "G-BZZ7Z078QK" # Enable Google Analytics by entering your trac
   
 [Params.widgets.social]
  twitter = "__johnfuller"
+ facebook = "man.0f.5T33L"
+ email = "john.fuller@gmail.com"
  
  [Params.widgets.search]
   cached = false # activate cache if true

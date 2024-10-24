@@ -7,11 +7,6 @@ disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 timeZone = "Asia/Manila" 
 
-[Author]
-  name = "John Fuller"
-  bio = "AI, Web Development, Marketing. Check my social media in the sidebar if you need to contact me."
-  avatar = "img/avatar.jpg"
-
 [Params]
   description = "Things I find interesting to share by John Fuller" # Description of your site
   opengraph = true
@@ -21,6 +16,11 @@ timeZone = "Asia/Manila"
   pager = true
   post_meta = ["date", "categories"] # Order of post meta information
   mainSections = ["post"]
+
+[Params.author]
+  name = "John Fuller"
+  bio = "AI, Web Development, Marketing. Check my social media in the sidebar if you need to contact me."
+  avatar = "img/avatar.jpg"
 
 [Params.logo]
   subtitle = "Shit Posting" # Logo subtitle

@@ -1,53 +1,96 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>/log/20241024075955/</loc>
-    <lastmod>2024-10-24T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>/log/</loc>
-    <lastmod>2024-10-24T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2024-10-24T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>/categories/ai/</loc>
-    <lastmod>2024-10-11T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>/tags/ai-capabilities/</loc>
-    <lastmod>2024-10-11T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>/categories/build-in-public/</loc>
-    <lastmod>2024-10-11T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>/post/build-in-public/</loc>
-    <lastmod>2024-10-11T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2024-10-11T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>/categories/personal-updates/</loc>
-    <lastmod>2024-10-11T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>/post/</loc>
-    <lastmod>2024-10-11T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2024-10-11T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>/post/ai-capabilities/</loc>
-    <lastmod>2024-10-11T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>/tags/energy/</loc>
-    <lastmod>2024-10-10T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>/post/going-nuclear/</loc>
-    <lastmod>2024-10-10T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>/tags/trends/</loc>
-    <lastmod>2024-10-10T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>/about/</loc>
-    <lastmod>2024-10-09T00:00:00+08:00</lastmod>
-  </url>
+  
+    <url>
+      <loc>https://robertguss.com/log/20241024075955/</loc>
+      <lastmod>2024-10-24T00:00:00+08:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://robertguss.com/log/20241024122746/</loc>
+      <lastmod>2024-10-24T00:00:00+08:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://robertguss.com/log/</loc>
+      <lastmod>2024-10-24T00:00:00+08:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://robertguss.com/tags/people/</loc>
+      <lastmod>2024-10-24T00:00:00+08:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://robertguss.com/post/</loc>
+      <lastmod>2024-10-24T00:00:00+08:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://robertguss.com/</loc>
+      <lastmod>2024-10-24T00:00:00+08:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://robertguss.com/tags/</loc>
+      <lastmod>2024-10-24T00:00:00+08:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://robertguss.com/categories/ai/</loc>
+      <lastmod>2024-10-11T00:00:00+08:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://robertguss.com/tags/ai-capabilities/</loc>
+      <lastmod>2024-10-11T00:00:00+08:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://robertguss.com/categories/build-in-public/</loc>
+      <lastmod>2024-10-11T00:00:00+08:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://robertguss.com/post/build-in-public/</loc>
+      <lastmod>2024-10-11T00:00:00+08:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://robertguss.com/categories/</loc>
+      <lastmod>2024-10-11T00:00:00+08:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://robertguss.com/categories/personal-updates/</loc>
+      <lastmod>2024-10-11T00:00:00+08:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://robertguss.com/post/ai-capabilities/</loc>
+      <lastmod>2024-10-11T00:00:00+08:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://robertguss.com/tags/energy/</loc>
+      <lastmod>2024-10-10T00:00:00+08:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://robertguss.com/post/going-nuclear/</loc>
+      <lastmod>2024-10-10T00:00:00+08:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://robertguss.com/tags/trends/</loc>
+      <lastmod>2024-10-10T00:00:00+08:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://robertguss.com/about/</loc>
+      <lastmod>2024-10-09T00:00:00+08:00</lastmod>
+    </url>
+  
 </urlset>
+
